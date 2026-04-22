@@ -1,18 +1,43 @@
+## Hi 👋
 
-## Hi  👋
+La programación está en todas partes si la entendemos como un conjunto de instrucciones que guían procesos. Incluso en nuestro propio cuerpo, donde cada sistema funciona siguiendo reglas precisas.
 
-La programación esta en todos lados, una muestra de ello son nuestros cuerpos, la forma en como pasa la sangre por neustras venas y es purificada
-<!--
-**leidy675/leidy675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me gusta pensar la programación de forma similar: como la capacidad de crear soluciones a través de lógica e instrucciones claras, definiendo qué debe y qué no debe hacer un sistema.
 
-Here are some ideas to get you started:
+Como desarrolladora, busco construir soluciones simples, organizadas y orientadas a resolver problemas reales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí
+- 💻 Desarrolladora backend en formación
+- ⚙️ Experiencia con C# y desarrollo de APIs
+- 🧠 Interesada en la lógica, arquitectura y buenas prácticas
+- 📚 Siempre aprendiendo y mejorando mis habilidades
+
+---
+
+## 🛠️ Tecnologías
+- C#
+- .NET / ASP.NET
+- SQL Server
+- Git & GitHub
+
+---
+
+## 📌 Proyectos destacados
+- ✈️ Sistema de gestión de aerolínea  
+  Desarrollo de un sistema completo con manejo de clientes, pasajes, rutas y lógica de negocio.
+
+- 🔧 APIs REST  
+  Creación de servicios para gestión de datos y automatización de procesos.
+
+---
+
+## 📫 Contacto
+- LinkedIn: (https://www.linkedin.com/in/leidy-ruiz-montilla-3b5970184?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- Email: (dleidy794@gmail.com)
+
+---
+
+⭐ Gracias por visitar mi perfil
+
