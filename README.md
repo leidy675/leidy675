@@ -1,6 +1,7 @@
-![me](img/Portada%20Leidy.png)
-## Hi there 👋
 
+## Hi  👋
+
+La programación esta en todos lados, una muestra de ello son nuestros cuerpos, la forma en como pasa la sangre por neustras venas y es purificada
 <!--
 **leidy675/leidy675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
