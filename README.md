@@ -1,4 +1,4 @@
-## Hi 👋
+## Hola 
 
 La programación está en todas partes si la entendemos como un conjunto de instrucciones que guían procesos. Incluso en nuestro propio cuerpo, donde cada sistema funciona siguiendo reglas precisas.
 
@@ -25,8 +25,6 @@ Como desarrolladora, busco construir soluciones simples, organizadas y orientada
 ---
 
 ## 📌 Proyectos destacados
-- ✈️ Sistema de gestión de aerolínea  
-  Desarrollo de un sistema completo con manejo de clientes, pasajes, rutas y lógica de negocio.
 
 - 🔧 APIs REST  
   Creación de servicios para gestión de datos y automatización de procesos.
@@ -34,8 +32,7 @@ Como desarrolladora, busco construir soluciones simples, organizadas y orientada
 ---
 
 ## 📫 Contacto
-- LinkedIn: (https://www.linkedin.com/in/leidy-ruiz-montilla-3b5970184?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- Email: (dleidy794@gmail.com)
+- LinkedIn: [Mi perfil]([https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/leidy-ruiz-montilla-3b5970184?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
 
 ---
 
